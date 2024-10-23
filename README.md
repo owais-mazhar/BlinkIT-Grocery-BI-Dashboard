@@ -24,10 +24,6 @@ The **BlinkIT Grocery Analytics Dashboard** provides comprehensive insights into
 2. Clone or download this repository.
 3. Open the `.pbix` file using Power BI Desktop to explore the dashboard.
 
-## Screenshots
-![Total Sales and Fat Content Analysis](images/total_sales_fat_content.png)
-![Outlet Type and Item Type Performance](images/outlet_item_type.png)
-
 ## Technologies Used
 - **Power BI**: For data visualization and dashboard creation.
 
